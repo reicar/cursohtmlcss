@@ -1,0 +1,26 @@
+html {
+    font-size: 75%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: inherit;
+}
+
+/*
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    width: 100%;
+    height: 500px;
+    border: 10px solid grey;
+    padding: 20px 35px;
+    /* Esto indica que mide 20 pixeles de arriba a abajo y
+    35 pixeles de izquierda a derecha */
+/* } */
+
+

@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 10; 
+    text-align: justify;
+    font-size: 16px;
+    font-family: Georgia, Cambria, serif;
+    background-color: #CFC;
+}
+
+.item {
+    list-style:square;
+}
+
+.texto, .item{
+    color: #00F;
+}
+
+.head1 {
+    color: #F00;
+    font-family: Verdana,Calibri, sans-serif;
+    font-size: 32px;
+}
+
+.head2 {
+    color: #A00;
+    font-family: Verdana,Calibri, sans-serif;
+    font-size: 24px;
+}
+

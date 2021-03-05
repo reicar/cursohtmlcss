@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select</title>
+</head>
+<body>
+    <main>
+      <!--  Utilizar esta opció es una mala práctica puesto que no es practica con lista grandes
+            <select name="" id="">
+            <option value="JavaScript">JavaScript</option>
+            <option value="HTML5">HTML5</option>
+            <option value="CSS3">CSS3</option>
+            <option value="Web Standards">Web Standards</option>
+        </select> 
+        
+        La mejor forma (buena práctica) es la siguiente:
+    -->
+
+        <input list="cursos" />
+        <datalist id="cursos">
+            <option value ="JavaScript"></option>
+            <option value="HTML5"></option>
+            <option value="CSS3"></option>
+            <option value="Web Standards"></option>
+        </datalist>
+        <!-- 
+            Con esta forma el usuario tiene la opción de comenzar a escribir y se le presentaran las opciones
+            mas parecidas a lo que está escribiendo. Y le da la opción de escribir algo que no está en la lista
+        -->
+    </main>
+</body>
+</html>

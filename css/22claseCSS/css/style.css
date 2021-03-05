@@ -1,0 +1,19 @@
+/* Es CSS podemos aplicar estilos por la etiqueta, por clase o por id" */
+
+/* Seleccion por etiqueta */
+
+p 
+{   color: blue;
+    font-size: 40px;
+}
+
+/* Seleccion por Class */
+.parrafo {
+    color = rojo;
+}
+
+/* Seleccion por Id */
+#texto {
+    color: red;
+    font-size: 24px;
+}

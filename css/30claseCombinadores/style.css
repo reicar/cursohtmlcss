@@ -1,0 +1,21 @@
+/* Ejemplo de Hermano adjacente o cercano
+h2 + p {
+    color: red;
+}
+*/
+
+/* Ejemplo de Hermano General
+h2 ~ p {
+    color: red;
+}
+*/
+
+/* Ejemplo de hijo
+div > p {
+    color: red;
+}
+*/
+
+div p {
+    color: red;
+}

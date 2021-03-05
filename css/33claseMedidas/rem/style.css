@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/* 
+Es conveniente manejar las 9 lineas anteriores en todos nuestros 
+archivos de estilos CSS como un estandar y utilizar el rem en lugar
+del em y de px
+*/
+
+
+p {
+    font-size: 1.6rem;
+}
+
+mail div {
+    font-size: 1.6rem;
+}
